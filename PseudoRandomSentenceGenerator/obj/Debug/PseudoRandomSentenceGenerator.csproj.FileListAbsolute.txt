@@ -1,0 +1,6 @@
+c:\users\szymon\documents\visual studio 2013\Projects\PseudoRandomSentenceGenerator\PseudoRandomSentenceGenerator\bin\Debug\PseudoRandomSentenceGenerator.exe.config
+c:\users\szymon\documents\visual studio 2013\Projects\PseudoRandomSentenceGenerator\PseudoRandomSentenceGenerator\bin\Debug\PseudoRandomSentenceGenerator.exe
+c:\users\szymon\documents\visual studio 2013\Projects\PseudoRandomSentenceGenerator\PseudoRandomSentenceGenerator\bin\Debug\PseudoRandomSentenceGenerator.pdb
+c:\users\szymon\documents\visual studio 2013\Projects\PseudoRandomSentenceGenerator\PseudoRandomSentenceGenerator\obj\Debug\PseudoRandomSentenceGenerator.csprojResolveAssemblyReference.cache
+c:\users\szymon\documents\visual studio 2013\Projects\PseudoRandomSentenceGenerator\PseudoRandomSentenceGenerator\obj\Debug\PseudoRandomSentenceGenerator.exe
+c:\users\szymon\documents\visual studio 2013\Projects\PseudoRandomSentenceGenerator\PseudoRandomSentenceGenerator\obj\Debug\PseudoRandomSentenceGenerator.pdb

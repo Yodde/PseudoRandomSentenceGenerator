@@ -1,0 +1,4 @@
+We will use Markov chains to solve this problem. In short, a Markov chain is a stochastic process with the Markov property. 
+By this property the changes of state of the system depend only on the current state of the system, and not additionally on the state of the system at previous steps.
+I’ve been interested for a long time in generating “random” texts using a given corpus. A naive way is to take words randomly and drop them together but it would result in an unreadable text. 
+The words in the generated text should come in an order that gives the impression that the text is more or less legit.
